@@ -27,5 +27,5 @@ This project can be used to see how semantic html elements can be utilized to st
 
 ## License
 
-NA
+MIT License
 
