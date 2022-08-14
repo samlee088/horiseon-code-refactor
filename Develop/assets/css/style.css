@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+
+/* Header - This is to style the top header bar of the webpage that inclues the company name, and the navigation links */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,6 +26,8 @@ body {
     color: #d9dcd6;
 }
 
+
+/* Header - The following CSS code is used to style the navigation links in the upper right hand corner of the webage */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -50,6 +54,7 @@ p {
     font-size: 16px;
 }
 
+/* Header - Style page to market an office setting and to create a break between the header and the main content of the webpage.  */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,6 +64,9 @@ p {
     background-position: center;
 }
 
+
+
+/* Main - This is used to help style the main body of the webpage and help to lay out the main structure to the left or right of the boxes.  */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -75,65 +83,8 @@ p {
     margin-left: 20px;
 }
 
-.benefits {
-    margin-right: 20px;
-    padding: 20px;
-    clear: both;
-    float: right;
-    width: 20%;
-    height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
-}
 
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-lead h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
+/* Main - This is the start of CSS that applies for the main marketing in the middle of the page. This starts with the structure and appear of the main substance.*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -161,6 +112,8 @@ p {
     color: #ffffff;
 }
 
+
+/* Main - The following CSS code are to size the media images for marketing */
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -173,6 +126,8 @@ p {
     max-height: 200px;
 }
 
+
+/* Main - These are the style references for the headers for the main services that are marketed */
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -188,6 +143,73 @@ p {
     font-size: 36px;
 }
 
+
+/* Benefits - This is the start of the CSS that apply to the side bar located on the right that include information for the additional services that are provided. It starts with styles to the shape and structure of the side bar on the right */
+.benefits {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+}
+
+.benefit-lead {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefit-brand {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefit-cost {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+
+/* Benefits - The following lines of CSS are used to modify the text in the additional side bar located on the right.  */
+.benefit-lead h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.benefit-brand h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.benefit-cost h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+
+/* Benefits - This is the start of CSS thare are used to style the images that are used to help with marketing with the additional services provided in the side bar on the right  */
+.benefit-lead img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+.benefit-brand img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+.benefit-cost img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+
+/* Footer - Start of the code to style the ending footer information */
 .footer {
     padding: 30px;
     clear: both;
