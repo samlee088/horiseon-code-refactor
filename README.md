@@ -17,6 +17,9 @@ Open both ‘index-unedited.html’ and ‘index.html’ in proper code visual p
 
 This project can be used to see how semantic html elements can be utilized to structure the framework for an HTML file. For example, multiple ‘div’ elements have been replaced with semantic html elements. Additionally coding was updated to accessibility standards by adding in alternative texts to ‘img’ elements. Finally, comments were added in to the CSS stylesheet, indicating lines of code that pertained to different subsections in the HTML file. Also changes to the CSS file were made to help keep code in order in reference in the HTML file, and grouped together to have code that applies to same subsections together.
 
+![alt text](assets//screenshot.png)
+
+
 
 ## Credits
 * https://www.w3schools.com/htmL/html_attributes.asp
