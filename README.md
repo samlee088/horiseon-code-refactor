@@ -8,11 +8,11 @@ This project was created in order to demonstrate modern coding standards and pra
 
 The following changes were made to the original code :
 
--Updating one of the hyperlinks to properly work
--Adding in notes to the CSS file
--Reorganized the CSS code so that it goes codes that grouped together
--Added in alternative texts to picture images
--Changed 'div' elements using semantic html.
+- Updating one of the hyperlinks to properly work
+- Adding in notes to the CSS file
+- Reorganized the CSS code so that it goes codes that grouped together
+- Added in alternative texts to picture images
+- Changed 'div' elements using semantic html.
 
 
 ## Installation
