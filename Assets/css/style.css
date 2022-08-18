@@ -36,9 +36,6 @@ body {
     font-size: 20px;
 }
 
-.header nav ul {
-    list-style-type: none;
-}
 
 .header nav ul li {
     display: inline-block;
@@ -85,25 +82,8 @@ p {
 
 
 /* Main - This is the start of CSS that applies for the main marketing in the middle of the page. This starts with the structure and appear of the main substance.*/
-.search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
 
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
+.box-adjustments {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -113,32 +93,15 @@ p {
 }
 
 
-/* Main - The following CSS code are to size the media images for marketing */
-.search-engine-optimization img {
+/* Main - This is to apply style changes to the main images */
+
+.box-adjustments img {
     max-height: 200px;
 }
 
-.online-reputation-management img {
-    max-height: 200px;
-}
+/* Main - This is the apply style changes to the heading in the main sections */
 
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-
-/* Main - These are the style references for the headers for the main services that are marketed */
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
+.box-adjustments h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -156,53 +119,26 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
+/* Benefits - Body This is to style the spacing of the content in the benefits section. */
 
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
+.benefits-adjustments {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
 
-/* Benefits - The following lines of CSS are used to modify the text in the additional side bar located on the right.  */
-.benefit-lead h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
+/* Benefits - Header This is to adjust the header in the benefits section  */
 
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
 
-.benefit-cost h3 {
+.benefits-adjustments  h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
 
-/* Benefits - This is the start of CSS thare are used to style the images that are used to help with marketing with the additional services provided in the side bar on the right  */
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
+/* Benefits - Images This is to adjust the images in the benefits section  */
 
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
+.benefits-adjustments img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
