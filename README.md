@@ -4,7 +4,7 @@
 
 ## Description
 
-This project was created in order to demonstrate modern coding standards and practices including the use of semantic HTML elements, updating coding to accessibility standards, the use of comments and consolidating code to help organize the structure and layout of the CSS file. Additionally this project demonstrates working knowledge of these tools and techniques in order to update an existing webpage without changing or damaging the integrity of the webpage. 
+This project was created in order to demonstrate refactoring of a webpage to modern coding standards and practices without changing or damaging the integrity of the webpage. 
 
 The following changes were made to the original code :
 
@@ -26,7 +26,7 @@ Open both ‘index-unedited.html’ and ‘index.html’ in proper code visual p
 
 This project can be used to see how semantic html elements can be utilized to structure the framework for an HTML file. For example, multiple ‘div’ elements have been replaced with semantic html elements. Additionally coding was updated to accessibility standards by adding in alternative texts to ‘img’ elements. Finally, comments were added in to the CSS stylesheet, indicating lines of code that pertained to different subsections in the HTML file. Also changes to the CSS file were made to help keep code in order in reference in the HTML file, and grouped together to have code that applies to same subsections together.
 
--https://samlee088.github.io/horiseon-code-refactor/
+https://samlee088.github.io/horiseon-code-refactor/
 
 ![screenshot of the live webpage](Assets//screenshot.png)
 
